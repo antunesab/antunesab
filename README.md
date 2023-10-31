@@ -1,6 +1,6 @@
 - 👋 Welcome, I’m @antunesab
 - 👀 I’m interested in public health, epidemiology, nutrition and softwares
-- 🌱 I’m currently learning nutritional epidemiology using SAS, Stata and R in public databases from Brazilians surveys in my Phd. 
+- 🌱 I’m currently learning nutritional epidemiology using SAS, Stata and R in public databases from Brazilians surveys in my PhD. 
 - 📫 How to reach me antunes.abnutri@gmail.com
 
 <!---
